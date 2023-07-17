@@ -6,7 +6,9 @@
 ![](https://komarev.com/ghpvc/?username=vinicius-f-pereira&color=blue&style=flat-square)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vfreitass/)
 [![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/vde-frei)
-> I'm a student at 42 school. Currently learning C language, Linux environment, terminal and etc. I'm passionate about mobile development and I'm planning to learn cross-platform development in the future, this may change by the end of the 42 course. I'm really enjoying the C language and looking for POS machine developing too.
+> Student at 42 school. Currently learning C language, Linux environment, terminal and etc.
+Passionate about mobile development and I'm planning to learn cross-platform development in the future, this may change by the end of the 42 course.
+I'm really enjoying the C language and looking for POS machine developing too.
 I'm always looking for new challenges and I'm eager to learn new things. I'm also a team player and I'm always willing to help others.
 If you have any questions about my work or if you want to collaborate on a project, feel free to reach out to me.
 ***
