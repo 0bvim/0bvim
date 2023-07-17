@@ -14,7 +14,7 @@ If you have any questions about my work or if you want to collaborate on a proje
 ***
 
 <div align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-f-pereira&layout=compact&theme=transparent" alt="Libft" height="150em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-f-pereira&layout=compact&theme=chartreuse-dark" alt="Libft" height="150em">
  </div>
  
 ***
