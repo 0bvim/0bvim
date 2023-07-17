@@ -15,6 +15,11 @@ If you have any questions about my work or if you want to collaborate on a proje
 *Disclaimer:*
 > Profile in development.\
 > I'm learning how to configure profile's README. Errors can be fixed any time. ~~or not~~
+
+
+**Refs**
+
+[![ThreeDP](https://img.shields.io/badge/ThreeDP-Profile-blue)](https://github.com/ThreeDP)
 ***
 ## Check out my repositories of the piscine and commom core from 42's school:
 >**I'm learning how to use and set a README.md, so, don't consider if a repo still with a simple readme yet.**
