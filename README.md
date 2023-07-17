@@ -12,9 +12,6 @@ I'm really enjoying the C language and looking for POS machine developing too.
 I'm always looking for new challenges and I'm eager to learn new things. I'm also a team player and I'm always willing to help others.
 If you have any questions about my work or if you want to collaborate on a project, feel free to reach out to me.
 ***
-*Disclaimer:*
-> Profile in development.\
-> I'm learning how to configure profile's README. Errors can be fixed any time. ~~or not~~
 
 
 **Refs**
