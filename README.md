@@ -19,7 +19,6 @@ If you have any questions about my work or if you want to collaborate on a proje
  
 ***
 ## Check out my repositories of the piscine and commom core from 42's school:
->**I'm learning how to use and set a README.md, so, don't consider if a repo still with a simple readme yet.**
 
 > **Piscine May/2023** \
 [![Piscine](https://img.shields.io/badge/42-Repository-%231283C4)](https://github.com/vinicius-f-pereira/42_piscine_may)
@@ -28,8 +27,19 @@ If you have any questions about my work or if you want to collaborate on a proje
 > **Commom Core** \
 [![Piscine Reloaded](https://img.shields.io/badge/42-Piscine%20Reloaded-%231283C4)](https://github.com/vinicius-f-pereira/42_piscine_may)
 ***
+## Studying
 
-## Badge from 42SP May/2023 Piscine
+### *️⃣ Back-end
+![Static Badge](https://img.shields.io/badge/C_language-basic-yellow?logo=c)
+
+### ☁️ Tools
+![Static Badge](https://img.shields.io/badge/Git-basic-yellow?logo=git)
+![Static Badge](https://img.shields.io/badge/AWS-basic-yellow?logo=amazon%20aws)
+![Static Badge](https://img.shields.io/badge/Shell-basic-yellow?logo=gnometerminal)
+
+
+## 42SP May/2023 Piscine
+
 [![vde-frei's 42 stats](https://badge42.vercel.app/api/v2/clk6abjn8006508jwv7coks5q/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 <img src="https://camo.githubusercontent.com/41e5e3a6bf3fd81812661600e607e6a54e5a126d3a2ad2a789fff16803b7a841/68747470733a2f2f692e696d6775722e636f6d2f593154414d6d6d2e706e67" width="200">
 ***
