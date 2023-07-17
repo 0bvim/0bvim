@@ -13,10 +13,10 @@ I'm always looking for new challenges and I'm eager to learn new things. I'm als
 If you have any questions about my work or if you want to collaborate on a project, feel free to reach out to me.
 ***
 
-
-**Refs**
-
-[![ThreeDP](https://img.shields.io/badge/ThreeDP-Profile-blue)](https://github.com/ThreeDP)
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-f-pereira&layout=compact&theme=transparent" alt="Libft" height="150em">
+ </div>
+ 
 ***
 ## Check out my repositories of the piscine and commom core from 42's school:
 >**I'm learning how to use and set a README.md, so, don't consider if a repo still with a simple readme yet.**
@@ -38,5 +38,10 @@ If you have any questions about my work or if you want to collaborate on a proje
 ***
 ## Academic education at 42SP school
 [![vde-frei's 42 stats](https://badge42.vercel.app/api/v2/clk6abjn8006508jwv7coks5q/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+***
+
+**Profile References**
+
+[![ThreeDP](https://img.shields.io/badge/ThreeDP-Profile-blue)](https://github.com/ThreeDP)
 
 
