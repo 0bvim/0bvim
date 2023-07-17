@@ -27,11 +27,16 @@ If you have any questions about my work or if you want to collaborate on a proje
 
 > **Commom Core** \
 [![Piscine Reloaded](https://img.shields.io/badge/42-Piscine%20Reloaded-%231283C4)](https://github.com/vinicius-f-pereira/42_piscine_may)
-
+***
 
 ## Badge from 42SP May/2023 Piscine
-<img src="https://camo.githubusercontent.com/41e5e3a6bf3fd81812661600e607e6a54e5a126d3a2ad2a789fff16803b7a841/68747470733a2f2f692e696d6775722e636f6d2f593154414d6d6d2e706e67" width="150">
-<!---
-vinicius-f-pereira/vinicius-f-pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![vde-frei's 42 stats](https://badge42.vercel.app/api/v2/clk6abjn8006508jwv7coks5q/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+<img src="https://camo.githubusercontent.com/41e5e3a6bf3fd81812661600e607e6a54e5a126d3a2ad2a789fff16803b7a841/68747470733a2f2f692e696d6775722e636f6d2f593154414d6d6d2e706e67" width="200">
+***
+## 42SP WarmUp
+[![vde-frei's 42 stats](https://badge42.vercel.app/api/v2/clk6abjn8006508jwv7coks5q/stats?cursusId=60&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+***
+## Academic education at 42SP school
+[![vde-frei's 42 stats](https://badge42.vercel.app/api/v2/clk6abjn8006508jwv7coks5q/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
+
