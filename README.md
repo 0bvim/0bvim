@@ -26,7 +26,7 @@ If you have any questions about my work or if you want to collaborate on a proje
 
 > **Commom Core** \
 > [![Libft](https://img.shields.io/badge/42-Libft-%231283C4)](https://github.com/vinicius-f-pereira/libft)
-[![Piscine Reloaded](https://img.shields.io/badge/42-Piscine%20Reloaded-%231283C4)](https://github.com/vinicius-f-pereira/42_piscine_may)
+[![Piscine Reloaded](https://img.shields.io/badge/42-Piscine%20Reloaded-%231283C4)](https://github.com/vinicius-f-pereira/piscine_reloaded)
 ***
 ## Studying
 
