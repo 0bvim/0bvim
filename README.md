@@ -37,6 +37,8 @@ If you have any questions about my work or if you want to collaborate on a proje
 ![Static Badge](https://img.shields.io/badge/Git-grey?logo=git)
 ![Static Badge](https://img.shields.io/badge/AWS-grey?logo=amazon%20aws)
 ![Static Badge](https://img.shields.io/badge/Shell-grey?logo=gnometerminal)
+![Static Badge](https://img.shields.io/badge/Makefile-grey)
+
 ***
 
 ## Academic education at 42SP school
