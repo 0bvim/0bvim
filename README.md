@@ -35,7 +35,9 @@ If you have any questions about my work or if you want to collaborate on a proje
 
 ### ☁️ Tools
 ![Static Badge](https://img.shields.io/badge/Git-white?logo=git)
+![Static Badge](https://img.shields.io/badge/Github-black?logo=github)
 ![Static Badge](https://img.shields.io/badge/AWS-black?logo=amazon%20aws)
+
 ![Static Badge](https://img.shields.io/badge/Shell-blue?logo=gnometerminal)
 ![Static Badge](https://img.shields.io/badge/Makefile-gold)
 ![Static Badge](https://img.shields.io/badge/Vim-orange?logo=vim)
