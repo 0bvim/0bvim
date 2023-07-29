@@ -34,10 +34,12 @@ If you have any questions about my work or if you want to collaborate on a proje
 ![Static Badge](https://img.shields.io/badge/C_language-grey?logo=c)
 
 ### ☁️ Tools
-![Static Badge](https://img.shields.io/badge/Git-grey?logo=git)
-![Static Badge](https://img.shields.io/badge/AWS-grey?logo=amazon%20aws)
-![Static Badge](https://img.shields.io/badge/Shell-grey?logo=gnometerminal)
-![Static Badge](https://img.shields.io/badge/Makefile-grey)
+![Static Badge](https://img.shields.io/badge/Git-white?logo=git)
+![Static Badge](https://img.shields.io/badge/AWS-black?logo=amazon%20aws)
+![Static Badge](https://img.shields.io/badge/Shell-blue?logo=gnometerminal)
+![Static Badge](https://img.shields.io/badge/Makefile-gold)
+![Static Badge](https://img.shields.io/badge/Vim-orange?logo=vim)
+![Static Badge](https://img.shields.io/badge/Neovim-%23e1e6e1?logo=neovim)
 
 ***
 
