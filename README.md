@@ -18,6 +18,9 @@ If you have any questions about my work or if you want to collaborate on a proje
  </div>
  
 ***
+
+<div align='center'>
+  
 ## Check out my repositories of the piscine and commom core from 42's school:
 
 > **Piscine May/2023** \
@@ -27,7 +30,10 @@ If you have any questions about my work or if you want to collaborate on a proje
 > **Commom Core** \
 > [![Libft](https://img.shields.io/badge/42-Libft-%231283C4)](https://github.com/vinicius-f-pereira/libft)
 [![Piscine Reloaded](https://img.shields.io/badge/42-Piscine%20Reloaded-%231283C4)](https://github.com/vinicius-f-pereira/piscine_reloaded)
+
+
 ***
+
 ## Studying
 
 ### *️⃣ Back-end
@@ -38,10 +44,13 @@ If you have any questions about my work or if you want to collaborate on a proje
 ![Static Badge](https://img.shields.io/badge/Github-black?logo=github)
 ![Static Badge](https://img.shields.io/badge/AWS-black?logo=amazon%20aws)
 
-![Static Badge](https://img.shields.io/badge/Shell-blue?logo=gnometerminal)
-![Static Badge](https://img.shields.io/badge/Makefile-gold)
-![Static Badge](https://img.shields.io/badge/Vim-orange?logo=vim)
-![Static Badge](https://img.shields.io/badge/Neovim-%23e1e6e1?logo=neovim)
+![Static Badge](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?&logo=markdown&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Shell_Script-%23121011.svg?&logo=gnu-bash&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Makefile-%23F24E1E.svg?&logo=monzo&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Vim-green?&logo=VIM&logoColor=black)
+![Static Badge](https://img.shields.io/badge/-Nvim-%23121011?&logo=Neovim&logoColor=white")
 
 ***
 
@@ -53,4 +62,4 @@ If you have any questions about my work or if you want to collaborate on a proje
 
 [![ThreeDP](https://img.shields.io/badge/ThreeDP-Profile-blue)](https://github.com/ThreeDP)
 
-
+</div>
