@@ -13,8 +13,11 @@ I'm always looking for new challenges and I'm eager to learn new things. I'm als
 If you have any questions about my work or if you want to collaborate on a project, feel free to reach out to me.
 ***
 
+## My Stats
 <div align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-f-pereira&layout=compact&theme=chartreuse-dark" alt="Libft" height="150em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-f-pereira&layout=compact&theme=chartreuse-dark" alt="Langs" height="150em">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-f-pereira&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="Stats" height="150em">
+
  </div>
  
 ***
