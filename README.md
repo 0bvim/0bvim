@@ -20,8 +20,8 @@ If you have any questions about my work or if you want to collaborate on a proje
 
  </div>
 
- ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![status](https://raw.githubusercontent.com/vinicius-f-pereira/github-stats-transparent/output/generated/overview.svg)](#)
+[![languages](https://raw.githubusercontent.com/vinicius-f-pereira/github-stats-transparent/output/generated/languages.svg)](#)
  
 ***
 
