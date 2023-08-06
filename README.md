@@ -19,6 +19,9 @@ If you have any questions about my work or if you want to collaborate on a proje
   <img src="https://github-readme-stats.vercel.app/api?username=vinicius-f-pereira&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="Stats" height="150em">
 
  </div>
+
+ ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
  
 ***
 
