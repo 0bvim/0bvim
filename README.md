@@ -28,12 +28,12 @@ If you have any questions about my work or if you want to collaborate on a proje
   
 ## Check out my repositories of the piscine and commom core from 42's school:
 
-> **Piscine May/2023** \
-[![Piscine](https://img.shields.io/badge/42-Repository-%231283C4)](https://github.com/vinicius-f-pereira/42_piscine_may)
+ **Piscine May/2023** \
+[![Piscine](https://img.shields.io/badge/42-Repository-%231283C4)](https://github.com/vinicius-f-pereira/42_piscine_may) 
 
 
-> **Commom Core** \
-> [![Libft](https://img.shields.io/badge/42-Libft-%231283C4)](https://github.com/vinicius-f-pereira/libft)
+ **Commom Core** \
+ [![Libft](https://img.shields.io/badge/42-Libft-%231283C4)](https://github.com/vinicius-f-pereira/libft)
 [![Piscine Reloaded](https://img.shields.io/badge/42-Piscine%20Reloaded-%231283C4)](https://github.com/vinicius-f-pereira/piscine_reloaded)
 
 
