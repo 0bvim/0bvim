@@ -14,13 +14,12 @@ If you have any questions about my work or if you want to collaborate on a proje
 ***
 
 ## My Stats
-<div align="start">
+<div align="center">
 
 [![status](https://raw.githubusercontent.com/vinicius-f-pereira/github-stats-transparent/output/generated/overview.svg)](#)
 [![languages](https://raw.githubusercontent.com/vinicius-f-pereira/github-stats-transparent/output/generated/languages.svg)](#)
-
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=vinicius-f-pereira&theme=dark&hide_border=true)](#)
  </div>
-
  
 ***
 
@@ -45,8 +44,8 @@ If you have any questions about my work or if you want to collaborate on a proje
 ![Static Badge](https://img.shields.io/badge/C_language-grey?logo=c)
 
 ### ☁️ Tools
-![Static Badge](https://img.shields.io/badge/Git-white?logo=git)
-![Static Badge](https://img.shields.io/badge/Github-black?logo=github)
+![Static Badge](https://img.shields.io/badge/Git-white?logo=git) \
+![Static Badge](https://img.shields.io/badge/Github-black?logo=github) \
 ![Static Badge](https://img.shields.io/badge/AWS-black?logo=amazon%20aws)
 
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
