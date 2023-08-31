@@ -26,13 +26,14 @@ I'm always looking for new challenges and I'm eager to learn new things. I'm als
 
 ## Check out my repositories of the piscine and commom core from 42's school:
 
- **Piscine May/2023** \
-[![Piscine](https://img.shields.io/badge/42-Repository-%231283C4)](https://github.com/vinicius-f-pereira/42_piscine_may) 
-
  **Commom Core** \
+[![FT_PRINTF](https://img.shields.io/badge/42-Ft_printf-%231283C4)](https://github.com/vinicius-f-pereira/ft_printf)
 [![GNL](https://img.shields.io/badge/42-get_next_line-%231283C4)](https://github.com/vinicius-f-pereira/get_next_line)
 [![Libft](https://img.shields.io/badge/42-Libft-%231283C4)](https://github.com/vinicius-f-pereira/libft)
 [![Piscine Reloaded](https://img.shields.io/badge/42-Piscine%20Reloaded-%231283C4)](https://github.com/vinicius-f-pereira/piscine_reloaded)
+
+ **Piscine May/2023** \
+[![Piscine](https://img.shields.io/badge/42-Repository-%231283C4)](https://github.com/vinicius-f-pereira/42_piscine_may) 
 
 ## Studying
 
