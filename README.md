@@ -61,3 +61,7 @@ I'm always looking for new challenges and I'm eager to learn new things. I'm als
 [![Riceset](https://img.shields.io/badge/Riceset-Profile-blue)](https://github.com/Riceset)
 
 
+
+<a href="#"><img align='right' src='../../../stuff/blob/master/alucard.gif' width='75'></a>
+
+
