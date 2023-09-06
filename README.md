@@ -1,12 +1,13 @@
-<h1>
-  <a href="#"><img src='https://cdn-icons-png.flaticon.com/512/3602/3602164.png' usemap="" alt='Hi' width="35"/></a>
-  Vinicius!
-</h1>
 
-Student at 42 school. Currently learning C language, Linux environment, terminal and etc. Passionate about mobile development and I'm planning to learn cross-plataform development in the future, this may change by the end of the 42 course. I'm really enjoying the C language and looking for POS machine developing too.
+<h2 align="center">  <a href="#"><img src='https://cdn-icons-png.flaticon.com/512/3602/3602164.png' usemap="" alt='Hi' width="35"/></a>
+  Vinicius! </h2> <br>
+<p align="left">
+  <samp>Student at 42 school. Currently learning C language, Linux environment, terminal and etc. Passionate about mobile development and I'm planning to learn cross-plataform development in the future, this may change by the end of the 42 course. I'm really enjoying the C language and looking for POS machine developing too.
 I'm always looking for new challenges and I'm eager to learn new things. I'm also a team player and I'm always willing to help others. If you have any questions about my work or if you want to collaborate on a project, feel free to reach out to me.
+  </samp>
+ <br> <br>
 
-<div align="center" style="display:inline_block"> 
+<div align="left" style="display:inline_block"> 
   <a href="https://www.linkedin.com/in/vfreitass/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:niviciusdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/vde-frei#1622" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -15,12 +16,12 @@ I'm always looking for new challenges and I'm eager to learn new things. I'm als
 ![](https://komarev.com/ghpvc/?username=vinicius-f-pereira&color=blue&style=flat-square)
 [![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/vde-frei)
 
-</div>
-
 ## Ecolé 42 SP Badges
 
 ![Libft](../../../42-project-badges/blob/main/badges/libftm.png)
 ![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)
+
+</div>
 
 [![vde-frei's 42 stats](https://badge42.vercel.app/api/v2/clk6abjn8006508jwv7coks5q/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
