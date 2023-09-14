@@ -18,8 +18,9 @@ I'm always looking for new challenges and I'm eager to learn new things. I'm als
 
 ## Ecolé 42 SP Badges
 
-![Libft](../../../42-project-badges/blob/main/badges/libftm.png)
+![libft](../../../42-project-badges/blob/main/badges/libftm.png)
 ![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)
+![ft_printf](../../../42-project-badges/blob/main/badges/ft_printfm.png)
 
 </div>
 
