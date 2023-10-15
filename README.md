@@ -23,6 +23,7 @@ I'm always looking for new challenges and I'm eager to learn new things. I'm als
 ![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)
 ![ft_printf](../../../42-project-badges/blob/main/badges/ft_printfm.png)
 ![born2beroot](../../../42-project-badges/blob/main/badges/born2berootm.png)
+![FdF](../../../42-project-badges/blob/main/badges/fdfm.png)
 
 </div>
 
