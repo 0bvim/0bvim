@@ -2,9 +2,13 @@
 <h2 align="center">  <a href="#"><img src='https://cdn-icons-png.flaticon.com/512/3602/3602164.png' usemap="" alt='Hi' width="35"/></a>
   Vinicius! </h2> <br>
 <p align="left">
-  <samp>Student at 42 school. Currently learning C language, Linux environment, terminal and low level stuff. I'm learning Golang and will started a project that the stack will be `Node.js + Nest.js and Typescript`. I'm not stucked in a sigle language, I love solve problems and learn new tools for it. I'm really enjoying the C language and Golang for now.
-I'm always looking for new challenges and I'm eager to learn new things. I'm also a team player and I'm always willing to help others. If you have any questions about my work or if you want to collaborate on a project, feel free to reach out to me.
-  </samp>
+  <samp>
+    I'm currently a student at the 42 school, where I'm deepening my knowledge in C language, Linux environment, terminal, and low-level programming. In addition to my formal education, I'm also self-learning Golang and Ruby. I'm eager to expand my skill set to include the NodeJS stack.
+
+I'm passionate about problem-solving and constantly seeking out new tools and languages to learn. Currently, I'm enjoying working with C language and Golang.
+
+I thrive on challenges and am always looking for new learning opportunities. I'm a team player and enjoy helping others. If you have any questions about my work or would like to collaborate on a project, feel free to reach out to me.
+</samp>
  <br> <br>
 
 <div align="left" style="display:inline_block"> 
