@@ -29,18 +29,18 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 6. [![Pipex](https://img.shields.io/badge/42-Pipex-%231283C4)](../../../pipex)\
     This project will let you discover in detail a UNIX mechanism that you already know by using it in your program.
 
-## Ecolé 42 SP Badges
+## 📝 Ecolé 42 SP Badges
 
 ![libft](../../../42-project-badges/blob/main/badges/libftm.png)
 ![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)
-![ft_printf](../../../42-project-badges/blob/main/badges/ft_printfm.png)
+![ft_printf](../../../42-project-badges/blob/main/badges/ft_printfm.png)\
 ![born2beroot](../../../42-project-badges/blob/main/badges/born2berootm.png)
 ![FdF](../../../42-project-badges/blob/main/badges/fdfm.png)
 ![Pipex](../../../42-project-badges/blob/main/badges/pipexm.png)
 
 </div>
 
-## My Stats
+## 📈 My Stats
 
 [![status](https://raw.githubusercontent.com/vinicius-f-pereira/github-stats-transparent/output/generated/overview.svg)](#)
 [![languages](https://raw.githubusercontent.com/vinicius-f-pereira/github-stats-transparent/output/generated/languages.svg)](#)
@@ -65,7 +65,7 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 ![Static Badge](https://img.shields.io/badge/Gnu_DeBugger-black?logo=gnubash&logoColor=white)
 
 
-## 🌐 Social
+## 📫 Contact
 
 <div align="left" style="display:inline_block"> 
   <a href="https://www.linkedin.com/in/vfreitass/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
