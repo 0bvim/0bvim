@@ -31,12 +31,12 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 
 ## 📝 Ecolé 42 SP Badges
 
-![libft](../../../42-project-badges/blob/main/badges/libftm.png)
-![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)
-![ft_printf](../../../42-project-badges/blob/main/badges/ft_printfm.png)\
+[![libft](../../../42-project-badges/blob/main/badges/libftm.png)](../../../libft)
+[![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)](../../../get_next_line)
+[![ft_printf](../../../42-project-badges/blob/main/badges/ft_printfm.png)](../../../ft_printf)\
 ![born2beroot](../../../42-project-badges/blob/main/badges/born2berootm.png)
-![FdF](../../../42-project-badges/blob/main/badges/fdfm.png)
-![Pipex](../../../42-project-badges/blob/main/badges/pipexm.png)
+[![FdF](../../../42-project-badges/blob/main/badges/fdfm.png)](../../../FdF)
+[![Pipex](../../../42-project-badges/blob/main/badges/pipexm.png)](../../../pipex)
 
 </div>
 
