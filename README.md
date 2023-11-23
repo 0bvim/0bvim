@@ -49,7 +49,7 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 ## *️⃣ Back-end
 ![Static Badge](https://img.shields.io/badge/C_language-blue?logo=c)
 ![Static Badge](https://img.shields.io/badge/Go-white?logo=go)
-![Static Badge](https://img.shields.io/badge/Ruby-red?logo=ruby)
+![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=TypeScript)
 
 ### ☁️ Tools
 ![Static Badge](https://img.shields.io/badge/Git-white?logo=git)
