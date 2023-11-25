@@ -78,7 +78,6 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 
 
 
-
 <a href="#"><img align='right' src='../../../stuff/blob/main/alucard.gif' width='75'></a>
 
 
