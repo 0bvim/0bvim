@@ -11,7 +11,7 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 - Linux
 - Terminal
 
-## 📈 Projects
+<!-- ## 📈 Projects
 0. [![Piscine Reloaded](https://img.shields.io/badge/42-Piscine%20Reloaded-%231283C4)](../../../piscine_reloaded)\
   Review content learned during the `Pool`
 1. [![Libft](https://img.shields.io/badge/42-Libft-%231283C4)](../../../libft)\
@@ -26,15 +26,27 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
    This project is about representing a landscape as a 3D object in which all surfaces are outlined in lines.
 6. [![Pipex](https://img.shields.io/badge/42-Pipex-%231283C4)](../../../pipex)\
     This project will let you discover in detail a UNIX mechanism that you already know by using it in your program.
-
+-->
 ## 📝 Ecolé 42 SP Badges
+<div>
+    <img src="../../../42-project-badges/blob/main/badges/libftm.png" alt="libft" width="100" height="100">
+    <img src="../../../42-project-badges/blob/main/badges/get_next_linem.png" alt="GNL" width="100" height="100">
+  <div>
+    <img src="../../../42-project-badges/blob/main/badges/ft_printfm.png" alt="ft_printf" width="100" height="100">
+    <img src="../../../42-project-badges/blob/main/badges/born2berootm.png" alt="born2beroot" width="100" height="100">
+  </div>
+  <div>
+    <img src="../../../42-project-badges/blob/main/badges/fdfm.png" alt="FdF" width="100" height="100">
+    <img src="../../../42-project-badges/blob/main/badges/pipexm.png" alt="Pipex" width="100" height="100">
+  </div>
+</div>
 
-[![libft](../../../42-project-badges/blob/main/badges/libftm.png)](../../../libft)
+<!--[![libft](../../../42-project-badges/blob/main/badges/libftm.png)](../../../libft)
 [![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)](../../../get_next_line)
 [![ft_printf](../../../42-project-badges/blob/main/badges/ft_printfm.png)](../../../ft_printf)\
 ![born2beroot](../../../42-project-badges/blob/main/badges/born2berootm.png)
 [![FdF](../../../42-project-badges/blob/main/badges/fdfm.png)](../../../FdF)
-[![Pipex](../../../42-project-badges/blob/main/badges/pipexm.png)](../../../pipex)
+[![Pipex](../../../42-project-badges/blob/main/badges/pipexm.png)](../../../pipex)-->
 
 </div>
 
