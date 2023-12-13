@@ -28,18 +28,41 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
     This project will let you discover in detail a UNIX mechanism that you already know by using it in your program.
 -->
 ## 📝 Ecolé 42 SP Badges
-<div>
-    <img src="../../../42-project-badges/blob/main/badges/libftm.png" alt="libft" width="100" height="100">
-    <img src="../../../42-project-badges/blob/main/badges/get_next_linem.png" alt="GNL" width="100" height="100">
-  <div>
-    <img src="../../../42-project-badges/blob/main/badges/ft_printfm.png" alt="ft_printf" width="100" height="100">
-    <img src="../../../42-project-badges/blob/main/badges/born2berootm.png" alt="born2beroot" width="100" height="100">
+
+
+<!--![onephase](../../../42-project-badges/blob/main/badges/phase_onem.png) \
+[![libft](../../../42-project-badges/blob/main/badges/libftm.png)](../../../libft) [![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)](../../../get_next_line) \
+[![ft_printf](../../../42-project-badges/blob/main/badges/ft_printfm.png)](../../../ft_printf) ![born2beroot](../../../42-project-badges/blob/main/badges/born2berootm.png) \
+[![FdF](../../../42-project-badges/blob/main/badges/fdfm.png)](../../../FdF) [![Pipex](../../../42-project-badges/blob/main/badges/pipexm.png)](../../../pipex)
+-->
+<div id="body" style="display:inline-block; margin: 0 10px;">
+  <div id="phase_one" align="left" width="33%">
+    <picture>
+      <img src="../../../42-project-badges/blob/main/badges/phase_onem.png" alt="phase" width="150" height="150">
+    </picture>
+    <div id="lib gnl">
+      <img src="../../../42-project-badges/blob/main/badges/libftm.png" alt="libft" width="75" height="75">
+      <img src="../../../42-project-badges/blob/main/badges/get_next_linem.png" alt="GNL" width="75" height="75">
+    </div>
+    <div id="print born">
+      <img src="../../../42-project-badges/blob/main/badges/ft_printfm.png" alt="ft_printf" width="75" height="75">
+      <img src="../../../42-project-badges/blob/main/badges/born2berootm.png" alt="born2beroot" width="75" height="75">
+    </div>
+    <div id="fdf pipex">
+      <img src="../../../42-project-badges/blob/main/badges/fdfm.png" alt="FdF" width="75" height="75">
+      <img src="../../../42-project-badges/blob/main/badges/pipexm.png" alt="Pipex" width="75" height="75">
   </div>
-  <div>
-    <img src="../../../42-project-badges/blob/main/badges/fdfm.png" alt="FdF" width="100" height="100">
-    <img src="../../../42-project-badges/blob/main/badges/pipexm.png" alt="Pipex" width="100" height="100">
   </div>
+  <!--div id="phase_two" align="center" width="33%">
+    <picture>
+      <img src="../../../42-project-badges/blob/main/badges/phase_twom.png" alt="phase" width="20" height="20%">
+    </picture>
+    <div id="fdf pipex">
+      <img src="../../../42-project-badges/blob/main/badges/fdfm.png" alt="FdF" width="10%" height="10%">
+      <img src="../../../42-project-badges/blob/main/badges/pipexm.png" alt="Pipex" width="10%" height="10%">
+</div-->
 </div>
+  
 
 <!--[![libft](../../../42-project-badges/blob/main/badges/libftm.png)](../../../libft)
 [![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)](../../../get_next_line)
