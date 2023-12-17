@@ -11,36 +11,17 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 - Linux
 - Terminal
 
-<!-- ## 📈 Projects
-0. [![Piscine Reloaded](https://img.shields.io/badge/42-Piscine%20Reloaded-%231283C4)](../../../piscine_reloaded)\
-  Review content learned during the `Pool`
-1. [![Libft](https://img.shields.io/badge/42-Libft-%231283C4)](../../../libft)\
-  Build a static library with common used functions in C language.
-2. [![GNL](https://img.shields.io/badge/42-get_next_line-%231283C4)](../../../get_next_line)\
-   This project is about programming a function that returns a line read from a file descriptor. 
-3. [![FT_PRINTF](https://img.shields.io/badge/42-ft_printf-%231283C4)](../../../ft_printf)\
-   Recode printf(). You will mainly learn about using a variable number of arguments. How cool is that?? It is actually pretty cool :)
-4. [![born](https://img.shields.io/badge/42-born2beroot-%231283C4)](../../../born2beroot)\
-   This project aims to introduce you to the wonderful world of virtualization.
-5. [![FdF](https://img.shields.io/badge/42-FdF-%231283C4)](../../../FdF)\
-   This project is about representing a landscape as a 3D object in which all surfaces are outlined in lines.
-6. [![Pipex](https://img.shields.io/badge/42-Pipex-%231283C4)](../../../pipex)\
-    This project will let you discover in detail a UNIX mechanism that you already know by using it in your program.
--->
 ## 📝 Ecolé 42 SP Badges
 
-
-
-
-
-[![onephase](../../../42-project-badges/blob/main/badges/phase_onem.png)](https://github.com/vinicius-f-pereira) 
-[![onephase](../../../42-project-badges/blob/main/badges/phase_twoe.png)](https://github.com/vinicius-f-pereira) \
-[![libft](../../../42-project-badges/blob/main/badges/libftm.png)](../../../libft) [![push](../../../42-project-badges/blob/main/badges/push_swapm.png)](../../../push_swap) \
-[![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)](../../../get_next_line) \
+[![phaseone](../../../42-project-badges/blob/main/badges/phase_onem.png)](https://github.com/vinicius-f-pereira) \
+[![libft](../../../42-project-badges/blob/main/badges/libftm.png)](../../../libft) 
+[![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)](../../../get_next_line)
 [![ft_printf](../../../42-project-badges/blob/main/badges/ft_printfm.png)](../../../ft_printf) \
-![born2beroot](../../../42-project-badges/blob/main/badges/born2berootm.png) \
-[![FdF](../../../42-project-badges/blob/main/badges/fdfm.png)](../../../FdF) \
-[![Pipex](../../../42-project-badges/blob/main/badges/pipexm.png)](../../../pipex)
+[![born2beroot](../../../42-project-badges/blob/main/badges/born2berootm.png)](https://github.com/vinicius-f-pereira)
+[![FdF](../../../42-project-badges/blob/main/badges/fdfm.png)](../../../FdF)
+[![Pipex](../../../42-project-badges/blob/main/badges/pipexm.png)](../../../pipex) \
+[![phasetwo](../../../42-project-badges/blob/main/badges/phase_twoe.png)](https://github.com/vinicius-f-pereira) \
+[![push](../../../42-project-badges/blob/main/badges/push_swapm.png)](../../../push_swap) \
 
 <!--div id="body" style="display:inline-block; margin: 0 10px;">
   <div id="phase_one" align="left" width="33%">
