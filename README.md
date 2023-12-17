@@ -30,10 +30,17 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 ## 📝 Ecolé 42 SP Badges
 
 
-[![onephase](../../../42-project-badges/blob/main/badges/phase_onem.png)](https://github.com/vinicius-f-pereira) \
-[![libft](../../../42-project-badges/blob/main/badges/libftm.png)](../../../libft) [![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)](../../../get_next_line) \
-[![ft_printf](../../../42-project-badges/blob/main/badges/ft_printfm.png)](../../../ft_printf) ![born2beroot](../../../42-project-badges/blob/main/badges/born2berootm.png) \
-[![FdF](../../../42-project-badges/blob/main/badges/fdfm.png)](../../../FdF) [![Pipex](../../../42-project-badges/blob/main/badges/pipexm.png)](../../../pipex)
+
+
+
+[![onephase](../../../42-project-badges/blob/main/badges/phase_onem.png)](https://github.com/vinicius-f-pereira) 
+[![onephase](../../../42-project-badges/blob/main/badges/phase_twoe.png)](https://github.com/vinicius-f-pereira) \
+[![libft](../../../42-project-badges/blob/main/badges/libftm.png)](../../../libft) [![push](../../../42-project-badges/blob/main/badges/push_swapm.png)](../../../push_swap) \
+[![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)](../../../get_next_line) \
+[![ft_printf](../../../42-project-badges/blob/main/badges/ft_printfm.png)](../../../ft_printf) \
+![born2beroot](../../../42-project-badges/blob/main/badges/born2berootm.png) \
+[![FdF](../../../42-project-badges/blob/main/badges/fdfm.png)](../../../FdF) \
+[![Pipex](../../../42-project-badges/blob/main/badges/pipexm.png)](../../../pipex)
 
 <!--div id="body" style="display:inline-block; margin: 0 10px;">
   <div id="phase_one" align="left" width="33%">
@@ -112,6 +119,3 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 
 
 <a href="#"><img align='right' src='../../../stuff/blob/main/alucard.gif' width='75'></a>
-
-
-
