@@ -13,53 +13,11 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 
 ## 📝 Ecolé 42 SP Badges
 
-[![phaseone](../../../42-project-badges/blob/main/badges/phase_onem.png)](https://github.com/vinicius-f-pereira) \
-[![libft](../../../42-project-badges/blob/main/badges/libftm.png)](../../../libft) 
-[![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)](../../../get_next_line)
-[![ft_printf](../../../42-project-badges/blob/main/badges/ft_printfm.png)](../../../ft_printf) \
-[![born2beroot](../../../42-project-badges/blob/main/badges/born2berootm.png)](https://github.com/vinicius-f-pereira)
-[![FdF](../../../42-project-badges/blob/main/badges/fdfm.png)](../../../FdF)
-[![Pipex](../../../42-project-badges/blob/main/badges/pipexm.png)](../../../pipex) \
-[![phasetwo](../../../42-project-badges/blob/main/badges/phase_twoe.png)](https://github.com/vinicius-f-pereira) \
-[![push](../../../42-project-badges/blob/main/badges/push_swapm.png)](../../../push_swap)
-
-<!--div id="body" style="display:inline-block; margin: 0 10px;">
-  <div id="phase_one" align="left" width="33%">
-    <picture>
-      <img src="../../../42-project-badges/blob/main/badges/phase_onem.png" alt="phase" width="150" height="150">
-    </picture>
-    <div id="lib gnl">
-      <img src="../../../42-project-badges/blob/main/badges/libftm.png" alt="libft" width="75" height="75">
-      <img src="../../../42-project-badges/blob/main/badges/get_next_linem.png" alt="GNL" width="75" height="75">
-    </div>
-    <div id="print born">
-      <img src="../../../42-project-badges/blob/main/badges/ft_printfm.png" alt="ft_printf" width="75" height="75">
-      <img src="../../../42-project-badges/blob/main/badges/born2berootm.png" alt="born2beroot" width="75" height="75">
-    </div>
-    <div id="fdf pipex">
-      <img src="../../../42-project-badges/blob/main/badges/fdfm.png" alt="FdF" width="75" height="75">
-      <img src="../../../42-project-badges/blob/main/badges/pipexm.png" alt="Pipex" width="75" height="75">
-  </div>
-  </div>
-  <!--div id="phase_two" align="center" width="33%">
-    <picture>
-      <img src="../../../42-project-badges/blob/main/badges/phase_twom.png" alt="phase" width="20" height="20%">
-    </picture>
-    <div id="fdf pipex">
-      <img src="../../../42-project-badges/blob/main/badges/fdfm.png" alt="FdF" width="10%" height="10%">
-      <img src="../../../42-project-badges/blob/main/badges/pipexm.png" alt="Pipex" width="10%" height="10%">
-</div>
-</div>
-  
-
-<[![libft](../../../42-project-badges/blob/main/badges/libftm.png)](../../../libft)
-[![GNL](../../../42-project-badges/blob/main/badges/get_next_linem.png)](../../../get_next_line)
-[![ft_printf](../../../42-project-badges/blob/main/badges/ft_printfm.png)](../../../ft_printf)\
-![born2beroot](../../../42-project-badges/blob/main/badges/born2berootm.png)
-[![FdF](../../../42-project-badges/blob/main/badges/fdfm.png)](../../../FdF)
-[![Pipex](../../../42-project-badges/blob/main/badges/pipexm.png)](../../../pipex)>
-</div-->
-
+[![phaseone](../../../42-project-badges/blob/main/badges/phase_onem.png)](https://github.com/vinicius-f-pereira) [![phasetwo](../../../42-project-badges/blob/main/badges/phase_twoe.png)](https://github.com/vinicius-f-pereira) \
+[<img src="../../../42-project-badges/blob/main/badges/libftm.png" width="75"/>](../../../libft) [<img src="../../../42-project-badges/blob/main/badges/get_next_linem.png" width="75"/>](../../../get_next_line)
+[<img src="../../../42-project-badges/blob/main/badges/push_swapm.png" width="75"/>](../../../push_swap) [<img src="../../../42-project-badges/blob/main/badges/minishelln.png" width="75"/>](../../../minishell) \
+[<img src="../../../42-project-badges/blob/main/badges/ft_printfm.png" width="75"/>](../../../ft_printf) [<img src="../../../42-project-badges/blob/main/badges/born2berootm.png" width="75"/>](../../../born2beroot) \
+[<img src="../../../42-project-badges/blob/main/badges/fdfm.png" width="75"/>](../../../FdF) [<img src="../../../42-project-badges/blob/main/badges/pipexm.png" width="75"/>](../../../pipex)
 
 ## 📈 My Stats
 
