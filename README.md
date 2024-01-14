@@ -1,4 +1,4 @@
-# Hi, I'm Vinicius! <a href="#"><img align='left' src='../../../stuff/blob/main/shakehand.gif' width='35'></a>
+![image](https://github.com/vinicius-f-pereira/vinicius-f-pereira/assets/130008311/71c75c98-8844-4936-86db-d5b666538a13)# Hi, I'm Vinicius! <a href="#"><img align='left' src='../../../stuff/blob/main/shakehand.gif' width='35'></a>
 
 I'm a student at the 42 school, where I'm deepening my knowledge in C language, Linux environment, terminal, and low-level programming. In addition to my formal education, I'm also self-learning Golang and Ruby. I'm eager to expand my skill set to include the NodeJS stack.
 
@@ -28,9 +28,12 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 ## *️⃣ Back-end
 ![Static Badge](https://img.shields.io/badge/C_language-white?logo=c)
 ![Static Badge](https://img.shields.io/badge/Go-white?logo=go)
+![Static Badge](https://img.shields.io/badge/Ruby-red?logo=ruby)
+![Static Badge](https://img.shields.io/badge/CSharp-blue?logo=csharp)
 ![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=TypeScript)
 ![Static Badge](https://img.shields.io/badge/TailWindCSS-white?logo=tailwindcss)
 ![Static Badge](https://img.shields.io/badge/HTML5-white?logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS3-black?logo=css3)
 
 ### ☁️ Tools
 ![Static Badge](https://img.shields.io/badge/Git-white?logo=git)
