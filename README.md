@@ -1,4 +1,4 @@
-![image](https://github.com/vinicius-f-pereira/vinicius-f-pereira/assets/130008311/71c75c98-8844-4936-86db-d5b666538a13)# Hi, I'm Vinicius! <a href="#"><img align='left' src='../../../stuff/blob/main/shakehand.gif' width='35'></a>
+# Hi, I'm Vinicius! <a href="#"><img align='left' src='../../../stuff/blob/main/shakehand.gif' width='35'></a>
 
 I'm a student at the 42 school, where I'm deepening my knowledge in C language, Linux environment, terminal, and low-level programming. In addition to my formal education, I'm also self-learning Golang and Ruby. I'm eager to expand my skill set to include the NodeJS stack.
 
