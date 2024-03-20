@@ -18,7 +18,7 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 [<img src="../../../42-project-badges/blob/main/badges/push_swapm.png" width="75"/>](../../../push_swap) [<img src="../../../42-project-badges/blob/main/badges/minishellm.png" width="75"/>](../../../minishell) \
 [<img src="../../../42-project-badges/blob/main/badges/ft_printfm.png" width="75"/>](../../../ft_printf) [<img src="../../../42-project-badges/blob/main/badges/born2berootm.png" width="75"/>](../../../born2beroot)
 [<img src="../../../42-project-badges/blob/main/badges/philosophersm.png" width="75"/>](../../../philosophers) [<img src="../../../42-project-badges/blob/main/badges/netpracticem.png" width="75"/>](../../../netpractice) \
-[<img src="../../../42-project-badges/blob/main/badges/fdfm.png" width="75"/>](../../../FdF) [<img src="../../../42-project-badges/blob/main/badges/pipexm.png" width="75"/>](../../../pipex) [<img src="../../../42-project-badges/blob/main/badges/cub3dn.png" width="75"/>](../../../pipex)
+[<img src="../../../42-project-badges/blob/main/badges/fdfm.png" width="75"/>](../../../FdF) [<img src="../../../42-project-badges/blob/main/badges/pipexm.png" width="75"/>](../../../pipex) [<img src="../../../42-project-badges/blob/main/badges/cub3dn.png" width="75"/>](../../../cub3d)
 
 ## 📈 My Stats
 
