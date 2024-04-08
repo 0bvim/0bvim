@@ -46,7 +46,7 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 ![Static Badge](https://img.shields.io/badge/Makefile-%23F24E1E.svg?&logo=monzo&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Vim-green?&logo=VIM&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/-Nvim-%23121011?&logo=Neovim&logoColor=white")
-![Static Badge](https://img.shields.io/badge/Vscode-blue?logo=visual%20studio&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Vscode-blue?logo=visual%20studio&logoColor=gray)
 ![Static Badge](https://img.shields.io/badge/Gnu_DeBugger-black?logo=gnubash&logoColor=white)
 
 
