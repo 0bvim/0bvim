@@ -13,8 +13,8 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 
 ## 📝 Ecolé 42 SP Badges
 
-[![phaseone](../../../42-project-badges/blob/main/badges/phase_onem.png)](https://github.com/vinicius-f-pereira) [![phasetwo](../../../42-project-badges/blob/main/badges/phase_twom.png)](https://github.com/vinicius-f-pereira) 
-[![phasethreee](../../../42-project-badges/blob/main/badges/phase_threee.png)](https://github.com/vinicius-f-pereira) \
+[![phaseone](../../../42-project-badges/blob/main/badges/phase_onem.png)](https://github.com/0xniv) [![phasetwo](../../../42-project-badges/blob/main/badges/phase_twom.png)](https://github.com/0xniv) 
+[![phasethreee](../../../42-project-badges/blob/main/badges/phase_threee.png)](https://github.com/0xniv) \
 [<img src="../../../42-project-badges/blob/main/badges/libftm.png" width="75"/>](../../../libft) [<img src="../../../42-project-badges/blob/main/badges/get_next_linem.png" width="75"/>](../../../get_next_line)
 [<img src="../../../42-project-badges/blob/main/badges/push_swapm.png" width="75"/>](../../../push_swap) [<img src="../../../42-project-badges/blob/main/badges/minishellm.png" width="75"/>](../../../minishell) 
 [<img src="../../../42-project-badges/blob/main/badges/cppe.png" width="75"/>](../../../cpp) \
