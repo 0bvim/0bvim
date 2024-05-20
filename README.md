@@ -13,19 +13,19 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 
 ## 📝 Ecolé 42 SP Badges
 
-[![phaseone](../../../42-project-badges/blob/main/badges/phase_onem.png)](https://github.com/0xniv) [![phasetwo](../../../42-project-badges/blob/main/badges/phase_twom.png)](https://github.com/0xniv) 
-[![phasethreee](../../../42-project-badges/blob/main/badges/phase_threee.png)](https://github.com/0xniv) \
+[![phaseone](../../../42-project-badges/blob/main/badges/phase_onem.png)](https://github.com/0bvim) [![phasetwo](../../../42-project-badges/blob/main/badges/phase_twom.png)](https://github.com/0bvim) 
+[![phasethreee](../../../42-project-badges/blob/main/badges/phase_threee.png)](https://github.com/0bvim) \
 [<img src="../../../42-project-badges/blob/main/badges/libftm.png" width="75"/>](../../../libft) [<img src="../../../42-project-badges/blob/main/badges/get_next_linem.png" width="75"/>](../../../get_next_line)
 [<img src="../../../42-project-badges/blob/main/badges/push_swapm.png" width="75"/>](../../../push_swap) [<img src="../../../42-project-badges/blob/main/badges/minishellm.png" width="75"/>](../../../minishell) 
-[<img src="../../../42-project-badges/blob/main/badges/cppe.png" width="75"/>](../../../cpp) \
+[<img src="../../../42-project-badges/blob/main/badges/cppm.png" width="75"/>](../../../cpp) [<img src="../../../42-project-badges/blob/main/badges/inceptione.png" width="75"/>](../../../Inception)\
 [<img src="../../../42-project-badges/blob/main/badges/ft_printfm.png" width="75"/>](../../../ft_printf) [<img src="../../../42-project-badges/blob/main/badges/born2berootm.png" width="75"/>](../../../born2beroot)
 [<img src="../../../42-project-badges/blob/main/badges/philosophersm.png" width="75"/>](../../../philosophers) [<img src="../../../42-project-badges/blob/main/badges/netpracticem.png" width="75"/>](../../../netpractice) \
 [<img src="../../../42-project-badges/blob/main/badges/fdfm.png" width="75"/>](../../../FdF) [<img src="../../../42-project-badges/blob/main/badges/pipexm.png" width="75"/>](../../../pipex) [<img src="../../../42-project-badges/blob/main/badges/cub3dm.png" width="75"/>](../../../cub3d) 
 
 ## 📈 My Stats
 
-[![status](https://raw.githubusercontent.com/vinicius-f-pereira/github-stats-transparent/output/generated/overview.svg)](#)
-[![languages](https://raw.githubusercontent.com/vinicius-f-pereira/github-stats-transparent/output/generated/languages.svg)](#)
+[![status](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/overview.svg)](#)
+[![languages](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/languages.svg)](#)
 
 
 ## *️⃣ Back-end
@@ -42,6 +42,7 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 ### ☁️ Tools
 ![Static Badge](https://img.shields.io/badge/Git-white?logo=git)
 ![Static Badge](https://img.shields.io/badge/Github-black?logo=github)
+![Static Badge](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/AWS-black?logo=amazon%20aws)
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?&logo=markdown&logoColor=white)
