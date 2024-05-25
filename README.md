@@ -1,6 +1,6 @@
 # Hi, I'm Vinicius! <a href="#"><img align='left' src='../../../stuff/blob/main/shakehand.gif' width='35'></a>
 
-I'm a student at the 42 school, where I'm deepening my knowledge in C language, Linux environment, terminal, and low-level programming. In addition to my formal education, I'm also self-learning Golang and Ruby. I'm eager to expand my skill set to include the NodeJS stack.
+I'm a student at the 42 school, where I'm deepening my knowledge in C language, Linux environment, terminal, and low-level programming. In addition to my formal education, I'm also self-learning Flutter.
 
 ![](https://komarev.com/ghpvc/?username=vinicius-f-pereira&color=blue&style=flat-square)
 [![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/vde-frei)
