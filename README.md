@@ -8,7 +8,8 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
 ## 🛠️ Skills
 
 - Backend
-- Cloud (AWS)
+- Cloud
+- Container
 - Unix
 
 ## 📝 Ecolé 42 SP Badges
