@@ -1,16 +1,27 @@
 # Hi, I'm Vinicius! <a href="#"><img align='left' src='../../../stuff/blob/main/shakehand.gif' width='35'></a>
+I'm a passionate and versatile developer with a diverse skill set and a strong foundation in both system administration and programming. My journey began at 42 School, where I gained hands-on experience in various technical domains.
 
-I'm a student at the 42 school, where I'm deepening my knowledge in C language, Linux environment, terminal, and low-level programming. In addition to my formal education.
+### Skills and Experience
 
+- **Programming Languages:** 
+  - Proficient in **C** and **C++**.
+  - Self-taught in **C#**, **Ruby**, **Python**, **Lua**, **Dart**, **Kotlin**, and **Golang**.
+
+- **System Administration and DevOps:**
+  - Gained comprehensive sys admin skills.
+  - Experience with **Docker** and **Docker Compose** for containerization.
+  - Knowledge of **servers** and **web protocols**.
+
+- **Cloud Computing:**
+  - Basic understanding of **AWS** (Amazon Web Services) at the Practitioner level.
+
+I am always eager to learn new technologies and take on challenging projects. Feel free to explore my repositories and get in touch if you'd like to collaborate!
+
+---
+
+![trophy](https://github-profile-trophy.vercel.app/?username=0bvim&theme=apprentice&rank=-C) \
 ![](https://komarev.com/ghpvc/?username=vinicius-f-pereira&color=blue&style=flat-square)
 [![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/vde-frei)
-
-## 🛠️ Skills
-
-- Backend
-- Cloud
-- Container
-- Unix
 
 ## 📝 Ecolé 42 SP Badges
 
@@ -64,7 +75,5 @@ I'm a student at the 42 school, where I'm deepening my knowledge in C language, 
   <a href = "mailto:niviciusdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/vde-frei#1622" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/niviciusdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-
 
 <a href="#"><img align='right' src='../../../stuff/blob/main/alucard.gif' width='75'></a>
