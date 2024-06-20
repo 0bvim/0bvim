@@ -19,7 +19,7 @@ I am always eager to learn new technologies and take on challenging projects. Fe
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=0bvim&theme=apprentice&rank=-C&column=-1&no-bg=true&no-frame=true) \
+![trophy](https://github-profile-trophy.vercel.app/?username=0bvim&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true) \
 ![](https://komarev.com/ghpvc/?username=vinicius-f-pereira&color=blue&style=flat-square)
 [![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/vde-frei)
 
