@@ -20,8 +20,7 @@ I am always eager to learn new technologies and take on challenging projects. Fe
 ---
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=0bvim&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true) \
-![](https://komarev.com/ghpvc/?username=vinicius-f-pereira&color=blue&style=flat-square)
-[![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/vde-frei)
+
 
 ## 📝 Ecolé 42 SP Badges
 
@@ -66,6 +65,7 @@ I am always eager to learn new technologies and take on challenging projects. Fe
 ![Static Badge](https://img.shields.io/badge/Vscode-blue?logo=visual%20studio&logoColor=gray)
 ![Static Badge](https://img.shields.io/badge/Gnu_DeBugger-black?logo=gnubash&logoColor=white)
 
+---
 
 ## 📫 Contact
 
@@ -76,4 +76,6 @@ I am always eager to learn new technologies and take on challenging projects. Fe
  <a href="https://discord.gg/vde-frei#1622" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/niviciusdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+![](https://komarev.com/ghpvc/?username=vinicius-f-pereira&color=blue&style=flat-square)
+[![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/vde-frei)
 <a href="#"><img align='right' src='../../../stuff/blob/main/alucard.gif' width='75'></a>
