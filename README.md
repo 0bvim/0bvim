@@ -19,7 +19,7 @@ I am always eager to learn new technologies and take on challenging projects. Fe
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=0bvim&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true) \
+![trophy](https://github-profile-trophy.vercel.app/?username=0bvim&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true) 
 
 
 ## 📝 Ecolé 42 SP Badges
