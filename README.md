@@ -54,5 +54,5 @@ I am always eager to learn new technologies and take on challenging projects. Fe
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=0bvim&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true) 
 
-![](https://komarev.com/ghpvc/?username=vinicius-f-pereira&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=vinicius-f-pereira&color=blue&style=for-the-badge)
 <a href="#"><img align='right' src='../../../stuff/blob/main/alucard.gif' width='75'></a>
