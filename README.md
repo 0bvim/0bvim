@@ -1,7 +1,7 @@
 # Hi, I'm Vinicius! <a href="#"><img align='left' src='../../../stuff/blob/main/shakehand.gif' width='35'></a>
 I'm a passionate and versatile developer with a diverse skill set and a strong foundation in both system administration and programming. My journey began at 42 School, where I gained hands-on experience in various technical domains.
+https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif
 
-### Skills and Experience
 
 - **Programming Languages:** 
   - Proficient in **C** and **C++**.
@@ -55,4 +55,5 @@ I am always eager to learn new technologies and take on challenging projects. Fe
 ![trophy](https://github-profile-trophy.vercel.app/?username=0bvim&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true) 
 
 ![](https://komarev.com/ghpvc/?username=vinicius-f-pereira&color=blue&style=for-the-badge)
-<a href="#"><img align='right' src='../../../stuff/blob/main/alucard.gif' width='75'></a>
+
+<a href="#"><img align='right' src='https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif' width='55'></a>
