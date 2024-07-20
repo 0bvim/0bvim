@@ -1,7 +1,5 @@
 # Hi, I'm Vinicius! <a href="#"><img align='left' src='../../../stuff/blob/main/shakehand.gif' width='35'></a>
 I'm a passionate and versatile developer with a diverse skill set and a strong foundation in both system administration and programming. My journey began at 42 School, where I gained hands-on experience in various technical domains.
-https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif
-
 
 - **Programming Languages:** 
   - Proficient in **C** and **C++**.
