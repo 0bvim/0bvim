@@ -3,7 +3,7 @@ I'm a passionate and versatile developer with a diverse skill set and a strong f
 
 - **Programming Languages:** 
   - Proficient in **C** and **C++**.
-  - Self-taught in **C#**, **Ruby**, **Python**, **Lua**, **Dart**, **Kotlin**, and **Golang**.
+  - Self-taught in **Python**, **Golang**.
 
 - **System Administration and DevOps:**
   - Gained comprehensive sys admin skills.
