@@ -13,7 +13,7 @@ I'm a passionate and versatile developer with a diverse skill set and a strong f
 - **Cloud Computing:**
   - Basic understanding of **AWS** (Amazon Web Services) at the Practitioner level.
 
-I am always eager to learn new technologies and take on challenging projects. Feel free to explore my repositories and get in touch if you'd like to collaborate!
+I am always eager to learn new technologies and take on challenging projects.
 
 ---
 
