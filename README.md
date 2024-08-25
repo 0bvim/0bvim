@@ -25,7 +25,7 @@ I'm a passionate and versatile developer with a diverse skill set and a strong f
   <a href="https://instagram.com/niviciusdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## *️⃣ Languages
-![langs](https://skillicons.dev/icons?i=c,cpp,go,python,elixir,cs,lua,ruby,dart,kotlin,ktor,html,css,javascript,java&perline=)
+![langs](https://skillicons.dev/icons?i=c,cpp,go,python,elixir,cs,ktor,html,css,javascript&perline=)
 
 ## ☁️ Tools
 ![langs](https://skillicons.dev/icons?i=git,github,docker,nginx,bitbucket,aws,bash,vim,androidstudio,vscode,neovim,sublime,cmake,clion,redis&perline=)
