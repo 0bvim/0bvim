@@ -22,7 +22,7 @@ Experienced in a variety of technologies and tools, with a particular interest i
 ![langs](https://skillicons.dev/icons?i=vim,neovim,sublime,emacs,vscode,clion,&perline=)
 
 ## ☁️ Tools
-![langs](https://skillicons.dev/icons?i=git,github,docker,nginx,bitbucket,aws,bash,cmake,redis&perline=5)
+![langs](https://skillicons.dev/icons?i=git,github,docker,nginx,bitbucket,aws,bash,cmake,rabbitmq,redis&perline=5)
 
 ## Data Base
 ![langs](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mariadb&perline=)
