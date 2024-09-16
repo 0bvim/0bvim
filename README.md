@@ -1,19 +1,10 @@
 # Hi, I'm Vinicius! <a href="#"><img align='left' src='../../../stuff/blob/main/shakehand.gif' width='35'></a>
-I'm a passionate and versatile developer with a diverse skill set and a strong foundation in both system administration and programming. My journey began at 42 School, where I gained hands-on experience in various technical domains.
 
-- **Programming Languages:** 
-  - Proficient in **C** and **C++**.
-  - Learning **C#**, **Golang**, **Python**.
+**Passionate developer** always seeking new challenges and opportunities to learn and grow.\
+Enjoy collaborating with others to create innovative solutions.\
+Experienced in a variety of technologies and tools, with a particular interest in **text editors and IDE**. 
 
-- **System Administration and DevOps:**
-  - Gained comprehensive sys admin skills.
-  - Experience with **Docker** and **Docker Compose** for containerization.
-  - Knowledge of **servers** and **web protocols**.
-
-- **Cloud Computing:**
-  - Basic understanding of **AWS** (Amazon Web Services) at the Practitioner level.
-
----
+**Let's connect and build something great together!** 
 
 ## 📫 Contact
 
@@ -21,27 +12,25 @@ I'm a passionate and versatile developer with a diverse skill set and a strong f
   <a href="https://www.linkedin.com/in/vfreitass/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://app.slack.com/client/T039P7U66/D05Q1NU9G58" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
   <a href = "mailto:niviciusdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/vde-frei#1622" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/vde-frei#1622" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/niviciusdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## *️⃣ Languages
-![langs](https://skillicons.dev/icons?i=c,cpp,go,python,elixir,cs,ktor,html,css,javascript&perline=)
+![langs](https://skillicons.dev/icons?i=c,go,cpp,python,elixir&perline=)
+
+## 📝 Editors that I like
+![langs](https://skillicons.dev/icons?i=vim,neovim,sublime,emacs,vscode,clion,&perline=)
 
 ## ☁️ Tools
-![langs](https://skillicons.dev/icons?i=git,github,docker,nginx,bitbucket,aws,bash,vim,androidstudio,vscode,neovim,sublime,cmake,clion,redis&perline=)
+![langs](https://skillicons.dev/icons?i=git,github,docker,nginx,bitbucket,aws,bash,cmake,redis&perline=5)
 
 ## Data Base
-![langs](https://skillicons.dev/icons?i=postgres,sqlite,mysql&perline=)
-
-## Operational System
-![langs](https://skillicons.dev/icons?i=linux,windows,apple&perline=)
-
+![langs](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mariadb&perline=)
 
 ## 📈 My Stats
 
 [![status](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/overview.svg)](#)
 [![languages](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/languages.svg)](#)
-
 
 
 ---
