@@ -2,7 +2,7 @@
 
 **Passionate developer** always seeking new challenges and opportunities to learn and grow.\
 Enjoy collaborating with others to create innovative solutions.\
-Experienced `C`, `Golang` and `microservices`. 
+Experienced with `C`, `Golang` and `microservices`. 
 
 **Let's connect and build something great together!** 
 
