@@ -2,7 +2,7 @@
 
 **Passionate developer** always seeking new challenges and opportunities to learn and grow.\
 Enjoy collaborating with others to create innovative solutions.\
-Experienced in a variety of technologies and tools, with a particular interest in **text editors and IDE**. 
+Experienced `C`, `Golang` and `microservices`. 
 
 **Let's connect and build something great together!** 
 
@@ -22,10 +22,10 @@ Experienced in a variety of technologies and tools, with a particular interest i
 ![langs](https://skillicons.dev/icons?i=vim,neovim,sublime,emacs,vscode,clion,&perline=)
 
 ## ☁️ Tools
-![langs](https://skillicons.dev/icons?i=git,github,docker,nginx,bitbucket,aws,bash,cmake,rabbitmq,redis&perline=5)
+![langs](https://skillicons.dev/icons?i=git,github,docker,gcp,bash,mongodb,redis&perline=5)
 
 ## Data Base
-![langs](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mariadb&perline=)
+![langs](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mariadb,&perline=)
 
 ## 📈 My Stats
 
