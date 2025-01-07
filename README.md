@@ -22,7 +22,7 @@ Experienced with `C`, `Golang` and `microservices`.
 ![langs](https://skillicons.dev/icons?i=vim,neovim,sublime,emacs,vscode,clion,&perline=)
 
 ## ☁️ Tools
-![langs](https://skillicons.dev/icons?i=git,github,docker,gcp,bash,mongodb,redis&perline=5)
+![langs](https://skillicons.dev/icons?i=git,github,docker,argocd,gcp,bash,mongodb,redis&perline=5)
 
 ## Data Base
 ![langs](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mariadb,&perline=)
