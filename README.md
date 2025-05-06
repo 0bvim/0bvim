@@ -16,10 +16,10 @@ Experienced with `C`, `Golang` and `microservices`.
   <a href="https://instagram.com/niviciusdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## *️⃣ Languages
-![langs](https://skillicons.dev/icons?i=c,go,cpp,python,elixir&perline=)
+![langs](https://skillicons.dev/icons?i=go,elixir,c,cpp,python&perline=)
 
 ## 📝 Editors that I like
-![langs](https://skillicons.dev/icons?i=vim,neovim,sublime,emacs,vscode,clion,&perline=)
+![langs](https://skillicons.dev/icons?i=vim,neovim,sublime,emacs,vscode,clion,zed-editor&perline=)
 
 ## ☁️ Tools
 ![langs](https://skillicons.dev/icons?i=git,github,docker,gcp,bash,mongodb,redis&perline=5)
