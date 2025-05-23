@@ -1,44 +1,93 @@
-# Hi, I'm Vinicius! <a href="#"><img align='left' src='../../../stuff/blob/main/shakehand.gif' width='35'></a>
+# Hi, I'm Vinicius Pereira! <a href="#"><img align='left' src='../../../stuff/blob/main/shakehand.gif' width='35'></a>
 
-**Passionate developer** always seeking new challenges and opportunities to learn and grow.\
-Enjoy collaborating with others to create innovative solutions.\
-Experienced with `C`, `Golang` and `microservices`. 
-
-**Let's connect and build something great together!** 
-
-## 📫 Contact
+## 📞 Let's Connect!
 
 <div align="left" style="display:inline_block"> 
-  <a href="https://www.linkedin.com/in/vfreitass/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://app.slack.com/client/T039P7U66/D05Q1NU9G58" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:niviciusdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/vde-frei#1622" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/niviciusdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vfreitass/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:niviciusdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/niviciusdev" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discord.gg/vde-frei#1622" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+</div>
 
-## *️⃣ Languages
-![langs](https://skillicons.dev/icons?i=go,elixir,c,cpp,python&perline=)
+## 🚀 Backend Developer
 
-## 📝 Editors that I like
-![langs](https://skillicons.dev/icons?i=vim,neovim,sublime,emacs,vscode,clion,zed-editor&perline=)
+**Experienced backend developer** specializing in building **scalable, high-performance systems** that drive real business impact. Currently contributing to systems handling **5M+ monthly requests** and helping achieve **30% revenue growth** through innovative solutions.
 
-## ☁️ Tools
-![langs](https://skillicons.dev/icons?i=git,github,docker,gcp,bash,mongodb,redis&perline=5)
+### 🎯 What I Do
+- **Build robust microservices** using Go, gRPC, and cloud-native technologies
+- **Design scalable architectures** for high-traffic applications 
+- **Optimize system performance** and database efficiency
+- **Collaborate in agile teams** to deliver reliable, secure solutions
 
-## Data Base
-![langs](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mariadb,&perline=)
-
-## 📈 My Stats
-
-[![status](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/overview.svg)](#)
-[![languages](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/languages.svg)](#)
-
+**Passionate about creating efficient solutions for complex technical challenges!**
 
 ---
 
+## 🛠️ Featured Projects
 
+### 🌟 [**Portfolio**](https://0bvim.github.io/portfolio) 
+Personal showcase featuring academic and professional projects
 
-![trophy](https://github-profile-trophy.vercel.app/?username=0bvim&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true) 
+### ⚡ [**Gelixir**](https://github.com/0bvim/gelixir) *(under construction)*
+GitHub Gist clone built with **Elixir & Phoenix Framework**
 
-![](https://komarev.com/ghpvc/?username=vinicius-f-pereira&color=blue&style=for-the-badge)
+### 🤖 [**Goctobot**](https://github.com/0bvim/goctobot) 
+CLI tool for GitHub follower management - **Golang**
+
+### 🌐 [**OctoBuddy**](https://github.com/0bvim/octoBuddy)
+Web version of Goctobot using **Go, Gin & Next.js** *(under construction)*
+
+---
+
+## 🔧 Tech Stack
+
+### *️⃣ **Core Languages**
+![langs](https://skillicons.dev/icons?i=go,c,cpp,elixir,python,cs&perline=6)
+
+### ☁️ **Cloud & Infrastructure** 
+![tools](https://skillicons.dev/icons?i=gcp,docker,git,github,bash,linux&perline=7)
+
+### 🗄️ **Databases**
+![db](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&perline=5)
+
+### 📝 **Development Environment**
+![editors](https://skillicons.dev/icons?i=neovim,vim,vscode,clion,sublime&perline=5)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+[![status](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/overview.svg)](#)
+[![languages](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/languages.svg)](#)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=0bvim&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=vinicius-f-pereira&color=blue&style=for-the-badge)
+
+</div>
 
 <a href="#"><img align='right' src='https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif' width='55'></a>
