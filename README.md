@@ -50,7 +50,7 @@ Web version of Goctobot using **Go, Gin & Next.js** *(under construction)*
 ## 🔧 Tech Stack
 
 ### *️⃣ **Core Languages**
-![langs](https://skillicons.dev/icons?i=go,c,cpp,elixir,python,cs&perline=6)
+![langs](https://skillicons.dev/icons?i=go,c,cpp,elixir,python,&perline=6)
 
 ### ☁️ **Cloud & Infrastructure** 
 ![tools](https://skillicons.dev/icons?i=gcp,docker,git,github,bash,linux&perline=7)
@@ -59,7 +59,7 @@ Web version of Goctobot using **Go, Gin & Next.js** *(under construction)*
 ![db](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&perline=5)
 
 ### 📝 **Development Environment**
-![editors](https://skillicons.dev/icons?i=neovim,vim,vscode,clion,sublime&perline=5)
+![editors](https://skillicons.dev/icons?i=neovim,vim,vscode,clion,pycharm,sublime&perline=5)
 
 ---
 
