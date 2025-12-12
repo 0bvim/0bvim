@@ -9,9 +9,6 @@
   <a href="mailto:niviciusdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://instagram.com/niviciusdev" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
   <a href="https://discord.gg/vde-frei#1622" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
@@ -19,47 +16,28 @@
 
 ## 🚀 Backend Developer
 
-**Experienced backend developer** specializing in building **scalable, high-performance systems** that drive real business impact. Currently contributing to systems handling **5M+ monthly requests** and helping achieve **30% revenue growth** through innovative solutions.
+**Removed old boilerplate**
 
-### 🎯 What I Do
-- **Build robust microservices** using Go, gRPC, and cloud-native technologies
-- **Design scalable architectures** for high-traffic applications 
-- **Optimize system performance** and database efficiency
-- **Collaborate in agile teams** to deliver reliable, secure solutions
+Life is to short to not say what you want.
+Fall in love with OTP and FP (functional programming), but I don't have time to delve into becaus I'm busy fighting with snakes 🐍
 
-**Passionate about creating efficient solutions for complex technical challenges!**
-
----
-
-## 🛠️ Featured Projects
-
-### 🌟 [**Portfolio**](https://0bvim.github.io/portfolio) 
-Personal showcase featuring academic and professional projects
-
-### ⚡ [**Gelixir**](https://github.com/0bvim/gelixir) *(under construction)*
-GitHub Gist clone built with **Elixir & Phoenix Framework**
-
-### 🤖 [**Goctobot**](https://github.com/0bvim/goctobot) 
-CLI tool for GitHub follower management - **Golang**
-
-### 🌐 [**OctoBuddy**](https://github.com/0bvim/octoBuddy)
-Web version of Goctobot using **Go, Gin & Next.js** *(under construction)*
+Actually trying to finish computorv1, 42's spec and trying to build a solution to cut costs with Temporalio in company that I'm working now.
 
 ---
 
 ## 🔧 Tech Stack
 
 ### *️⃣ **Core Languages**
-![langs](https://skillicons.dev/icons?i=go,c,cpp,elixir,python,&perline=6)
+![langs](https://skillicons.dev/icons?i=python,elixir,go,&perline=6)
 
 ### ☁️ **Cloud & Infrastructure** 
-![tools](https://skillicons.dev/icons?i=gcp,docker,git,github,bash,linux&perline=7)
+![tools](https://skillicons.dev/icons?i=gcp,docker,aws,kubernetes,kafka,macos&perline=7)
 
 ### 🗄️ **Databases**
 ![db](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&perline=5)
 
 ### 📝 **Development Environment**
-![editors](https://skillicons.dev/icons?i=neovim,vim,vscode,clion,pycharm,sublime&perline=5)
+![editors](https://skillicons.dev/icons?i=neovim,vim,pycharm&perline=5)
 
 ---
 
