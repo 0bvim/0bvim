@@ -19,7 +19,7 @@
 **Removed old boilerplate**
 
 Life is to short to not say what you want.
-Fall in love with OTP and FP (functional programming), but I don't have time to delve into becaus I'm busy fighting with snakes 🐍
+Fall in love with OTP and FP (functional programming), but I don't have time to delve into, cuz I'm too busy fighting with snakes 🐍
 
 Actually trying to finish computorv1, 42's spec and trying to build a solution to cut costs with Temporalio in company that I'm working now.
 
