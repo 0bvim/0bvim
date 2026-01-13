@@ -16,19 +16,15 @@
 
 ## 🚀 Backend Developer
 
-**Removed old boilerplate**
-
 Life is to short to not say what you want.
-Fall in love with OTP and FP (functional programming), but I don't have time to delve into, cuz I'm too busy fighting with snakes 🐍
+Fall in love with OTP and FP (functional programming), and now I have time to delve into it.
 
-Actually trying to finish computorv1, 42's spec and trying to build a solution to cut costs with Temporalio in company that I'm working now.
-
----
+Actually trying to finish computorv1, 42's spec and build my own tool to manage followers on github.
 
 ## 🔧 Tech Stack
 
 ### *️⃣ **Core Languages**
-![langs](https://skillicons.dev/icons?i=python,elixir,go,&perline=6)
+![langs](https://skillicons.dev/icons?i=python,elixir,go,c&perline=6)
 
 ### ☁️ **Cloud & Infrastructure** 
 ![tools](https://skillicons.dev/icons?i=gcp,docker,aws,kubernetes,kafka,macos&perline=7)
@@ -39,24 +35,12 @@ Actually trying to finish computorv1, 42's spec and trying to build a solution t
 ### 📝 **Development Environment**
 ![editors](https://skillicons.dev/icons?i=neovim,vim,pycharm&perline=5)
 
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
   
 [![status](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/overview.svg)](#)
 [![languages](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/languages.svg)](#)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=0bvim&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true)
 
 </div>
 
