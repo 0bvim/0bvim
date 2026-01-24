@@ -24,7 +24,7 @@ Actually trying to finish computorv1, 42's spec and build my own tool to manage 
 ## 🔧 Tech Stack
 
 ### *️⃣ **Core Languages**
-![langs](https://skillicons.dev/icons?i=python,elixir,go,c&perline=6)
+![langs](https://skillicons.dev/icons?i=elixir,go,python,c&perline=6)
 
 ### ☁️ **Cloud & Infrastructure** 
 ![tools](https://skillicons.dev/icons?i=gcp,docker,aws,kubernetes,kafka,macos&perline=7)
