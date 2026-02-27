@@ -1,0 +1,104 @@
+#
+# Este é o arquivo de workflow para o GitHub Metrics.
+#
+# Para mais informações e a lista completa de opções, visite:
+# https://github.com/lowlighter/metrics#-documentation
+#
+
+name: GitHub Metrics
+
+on:
+  # Executa a cada hora
+  schedule: [{cron: "0 */12 * * *"}]
+  # Permite a execução manual a partir da aba Actions
+  workflow_dispatch:
+  # Executa também a cada push para os branches main ou master
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    # A permissão 'contents: write' é necessária para que a action possa
+    # fazer o commit do SVG gerado no seu repositório.
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Seu token do GitHub. É essencial para a action acessar os dados da API.
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # ------------------------------------------------------------------
+          # CONFIGURAÇÕES GERAIS
+          # ------------------------------------------------------------------
+
+          user: 0bvim
+          template: classic
+          base: header, activity, community, repositories, metadata
+          committer_message: "chore: update metrics"
+          config_timezone: America/Sao_Paulo
+          config_twemoji: yes
+
+          # ------------------------------------------------------------------
+          # PLUGINS
+          # ------------------------------------------------------------------
+
+          # Plugin: Introdução
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+
+          # Plugin: Calendário de contribuições
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+          # Plugin: Análise de código
+          plugin_code: yes
+          plugin_code_days: 3
+          plugin_code_lines: 12
+          plugin_code_load: 400
+          plugin_code_visibility: public
+
+          # Plugin: Frase da sorte (Fortune)
+          plugin_fortune: yes
+
+          # Plugin: Acompanhamento de Issues e PRs
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
+
+          # Plugin: Hábitos de codificação
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+
+          # Plugin: Calendário Isocalórico
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Plugin: Linguagens de programação
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 30
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+
+          # Plugin: Pessoas (Seguidores e quem você segue)
+          plugin_people: yes
+          plugin_people_limit: 10
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+
+          # Plugin: Feed RSS
+          plugin_rss: yes
+          plugin_rss_source: https://dev.to/nivicius
+          plugin_rss_limit: 4
