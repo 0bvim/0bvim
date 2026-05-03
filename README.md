@@ -24,16 +24,16 @@ Actually trying to finish computorv1, 42's spec and build my own tool to manage 
 ## 🔧 Tech Stack
 
 ### *️⃣ **Core Languages**
-![langs](https://skillicons.dev/icons?i=elixir,go,python,c&perline=6)
+![langs](https://skillicons.dev/icons?i=elixir,go,python,c,dotnet&perline=6)
 
 ### ☁️ **Cloud & Infrastructure** 
-![tools](https://skillicons.dev/icons?i=gcp,docker,aws,kubernetes,kafka,macos&perline=7)
+![tools](https://skillicons.dev/icons?i=azure,gcp,aws,docker,kubernetes,kafka,rabbitmq&perline=7)
 
 ### 🗄️ **Databases**
 ![db](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&perline=5)
 
 ### 📝 **Development Environment**
-![editors](https://skillicons.dev/icons?i=neovim,vim,pycharm&perline=5)
+![editors](https://skillicons.dev/icons?i=neovim,vim,pycharm,rider,vscode&perline=5)
 
 ## 📈 GitHub Analytics
 
